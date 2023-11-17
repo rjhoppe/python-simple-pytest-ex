@@ -1,0 +1,6 @@
+Pytest looks for a 'tests' folder and will proceed to
+test anything in that folder that is prefixed with
+'test_[func name]'
+
+All you need to do to run this is enter 'pytest' in terminal
+

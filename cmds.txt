@@ -1,0 +1,7 @@
+// Run this cmd instead of just pytest
+// This command will append os directory info needed so
+// pytest can correctly find the files it needs
+python -m pytest
+
+// Use the -v tag to get a more detailed output
+pytest main_test.py -v
